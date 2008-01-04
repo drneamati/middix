@@ -8,6 +8,8 @@
   * Finish Settings Panel 
   * Debug Process Manager 
   * Finish Setup Wizard
+  * Hidden Apps
+  * Debug Autumn
 
 
 = App Roadmap =
@@ -19,16 +21,12 @@ Version 0.1
   * Settings Panel 
   * Web Browser 
   * Task Manager 
+  * Autumn Media Player
 Version 0.2
-  * Add dynamic desktop icons 
   * App Open + Save As 
-  * Hidden Apps 
-  * Registry 
   * Alt + Tab type thing 
-  * Original Graphics 
   * Filesystem Permissions 
   * CT Messenger 
-  * Autumn Media Player 
 Version 0.3
   * Package Manager 
   * ICL [Iteva Compatibility Layer]
