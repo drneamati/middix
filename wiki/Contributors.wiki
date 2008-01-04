@@ -1,0 +1,18 @@
+#summary A list of all the Middix contributors.
+
+= People =
+Thomas - Misc. Coding
+Google - Other function reference ;)
+
+
+= Software =
+-Flash 8
+-Dreamweaver 8
+-WAMP
+-Notepad++
+-Firefox
+-Firefox Web Developer Toolbar
+
+
+But by far the most important...
+THE FIREFOX ERROR CONSOLE!
