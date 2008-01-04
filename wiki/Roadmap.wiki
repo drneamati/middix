@@ -27,6 +27,10 @@ Version 0.2
   * Alt + Tab type thing 
   * Filesystem Permissions 
   * CT Messenger 
+  * Open With & Common Dialog
 Version 0.3
-  * Package Manager 
+  * Package Manager
+  * Calendar
+  * Email
+  * FTP 
   * ICL [Iteva Compatibility Layer]
