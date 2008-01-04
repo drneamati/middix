@@ -2,15 +2,21 @@
 
 = People =
 Thomas - Misc. Coding
+
 Google - Other function reference ;)
 
 
 = Software =
--Flash 8
+-Flash 8 
+
 -Dreamweaver 8
+
 -WAMP
+
 -Notepad++
+
 -Firefox
+
 -Firefox Web Developer Toolbar
 
 
