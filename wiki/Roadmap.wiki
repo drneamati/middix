@@ -1,0 +1,34 @@
+#summary The Middix roadmap.
+
+= To-Do for Current Version =
+
+  * Security 
+  * Finish File Browser 
+  * Finish Web Browser 
+  * Finish Settings Panel 
+  * Debug Process Manager 
+  * Finish Setup Wizard
+
+
+= App Roadmap =
+
+Version 0.1
+  * File Browser 
+  * Image Preview 
+  * Text Editor 
+  * Settings Panel 
+  * Web Browser 
+  * Task Manager 
+Version 0.2
+  * Add dynamic desktop icons 
+  * App Open + Save As 
+  * Hidden Apps 
+  * Registry 
+  * Alt + Tab type thing 
+  * Original Graphics 
+  * Filesystem Permissions 
+  * CT Messenger 
+  * Autumn Media Player 
+Version 0.3
+  * Package Manager 
+  * ICL [Iteva Compatibility Layer]
