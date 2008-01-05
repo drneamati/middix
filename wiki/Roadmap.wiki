@@ -3,12 +3,7 @@
 = To-Do for Current Version =
 
   * Security 
-  * Finish File Browser 
-  * Finish Web Browser 
-  * Finish Settings Panel 
-  * Debug Process Manager 
-  * Finish Setup Wizard
-  * Debug Autumn
+  * Finish File Browser, Web Browser, Settings Panel, Process Manager, Autumn & Setup
 
 
 = App Roadmap =
