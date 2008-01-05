@@ -8,7 +8,6 @@
   * Finish Settings Panel 
   * Debug Process Manager 
   * Finish Setup Wizard
-  * Hidden Apps
   * Debug Autumn
 
 
