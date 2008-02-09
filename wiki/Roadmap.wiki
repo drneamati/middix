@@ -10,10 +10,12 @@ System:
   * Security 
   * MXP Package Installation / Execution 
 
+
 = 1.5 "Demeter" : =
 System: 
   * -Single Instance Logins
   * -Dialogs (Open/Save) 
+
 
 = Apps to be Released: =
   * -Settings (Appearance, Users, Autoruns, Program Control) 
