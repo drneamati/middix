@@ -2,20 +2,20 @@
 
 = 1.0 "Aphrodite" : =
 Apps: 
-* -Files (File browser) 
-* -Web (Web browser) 
-* -Preview (Image viewer) 
-* -Process Manager 
+  * -Files (File browser) 
+  * -Web (Web browser) 
+  * -Preview (Image viewer) 
+  * -Process Manager 
 System: 
-* Security 
-* MXP Package Installation / Execution 
+  * Security 
+  * MXP Package Installation / Execution 
 
 = 1.5 "Demeter" : =
 System: 
-* -Single Instance Logins 
-* -Dialogs (Open/Save) 
+  * -Single Instance Logins
+  * -Dialogs (Open/Save) 
 
 = Apps to be Released: =
-* -Settings (Appearance, Users, Autoruns, Program Control) 
-* -Autumn Media Player Embedded 1.0 
-* -Diagnostics (File browser, Variable viewer) 
+  * -Settings (Appearance, Users, Autoruns, Program Control) 
+  * -Autumn Media Player Embedded 1.0 
+  * -Diagnostics (File browser, Variable viewer) 
