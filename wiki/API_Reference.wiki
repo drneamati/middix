@@ -1,5 +1,5 @@
 #summary A reference of all the API functions in Middix & default Libraries.
-#labels DevDoc
+#labels DevDoc,Featured
 
 = Core =
 Containers:
