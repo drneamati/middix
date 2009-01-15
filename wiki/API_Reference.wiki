@@ -129,7 +129,7 @@ Additional Properties
     * .Content(Content) - Sets contents of frame.
 
   * .Text - Large text edit box.
-    * ..SetText(Text)
+    * .SetText(Text)
     * .GetText() - Returns text in box.
 
   * .iFrame - Iframe.
@@ -149,4 +149,3 @@ Additional Properties
     * .Add(Caption) - Adds to combo list, and returns Index.
     * .SetValue(Index) - Changes value of box to Index.
     * .GetValue() - Returns value of box.
-
